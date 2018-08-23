@@ -26,6 +26,12 @@ layout: default
    - Reading: [Reflections on Trusting Trust](/resources/readings/p761-thompson.pdf)
    - Assignment: [Assignment 1](https://classroom.github.com/a/udSnZfJ4) (due Monday, August 27, 2018 at 12 PM noon)
 
+- Wednesday, August 22, 2018
+   - Guest Lecture: [Suresh Kothari](https://www.linkedin.com/in/surajkothari)
+
+- Friday, August 24, 2018
+   - In Class Activity: Group Collaboration of Assignment 1
+
 **Week 02, 08/27 - 08/31:** Binary Exploitation Part 1
 
 **Week 03, 09/03 - 09/07:** Binary Exploitation Part 2
