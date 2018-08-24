@@ -21,7 +21,7 @@ layout: default
 ## Week 01, 08/20 - 08/24: Course Introduction
 
 - Monday, August 20, 2018
-   - Lecture: [Welcome](/resources/lectures/Welcome.pdf), [Gist](https://gist.github.com/benjholla/517d336339fd5f2b2068d320490acefe)
+   - Lecture: [Welcome](/resources/lectures/Welcome.pdf), [SE421.java](https://gist.github.com/benjholla/517d336339fd5f2b2068d320490acefe)
    - Review: [Syllabus](/resources/SE421_Fall_2018_Syllabus.pdf)
    - Reading: [Reflections on Trusting Trust](/resources/readings/p761-thompson.pdf)
    - Assignment: [Assignment 1](https://classroom.github.com/a/udSnZfJ4) (due Monday, August 27, 2018 at 12 PM noon)
@@ -30,7 +30,7 @@ layout: default
    - Guest Lecture: [Suresh Kothari](https://www.linkedin.com/in/surajkothari)
 
 - Friday, August 24, 2018
-   - In Class Activity: [Group Collaboration of Assignment 1](/resources/lectures/ClassActivity1.pdf)
+   - In Class Activity: [ClassActivity1.java](https://gist.github.com/benjholla/dc45ca6926ec162aa59394c646754166), [ClassActivity1.pdf](/resources/lectures/ClassActivity1.pdf)
 
 **Week 02, 08/27 - 08/31:** Binary Exploitation Part 1
 
