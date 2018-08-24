@@ -30,7 +30,7 @@ layout: default
    - Guest Lecture: [Suresh Kothari](https://www.linkedin.com/in/surajkothari)
 
 - Friday, August 24, 2018
-   - In Class Activity: Group Collaboration of Assignment 1
+   - In Class Activity: [Group Collaboration of Assignment 1](/resources/lectures/ClassActivity1.pdf)
 
 **Week 02, 08/27 - 08/31:** Binary Exploitation Part 1
 
