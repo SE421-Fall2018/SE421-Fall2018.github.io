@@ -30,7 +30,7 @@ layout: default
    - Guest Lecture: [Suresh Kothari](https://www.linkedin.com/in/surajkothari)
 
 - Friday, August 24, 2018
-   - In Class Activity: [ClassActivity1.java](https://gist.github.com/benjholla/dc45ca6926ec162aa59394c646754166), [ClassActivity1.pdf](/resources/lectures/ClassActivity1.pdf), [Quine.java](https://gist.github.com/benjholla/5f57727305e52c84d515656ec617bfdd)
+   - In Class Activity: [ClassActivity1.pdf](/resources/lectures/ClassActivity1.pdf), [ClassActivity1.java](https://gist.github.com/benjholla/dc45ca6926ec162aa59394c646754166), [Quine.java](https://gist.github.com/benjholla/5f57727305e52c84d515656ec617bfdd)
 
 **Week 02, 08/27 - 08/31:** Binary Exploitation Part 1
 
