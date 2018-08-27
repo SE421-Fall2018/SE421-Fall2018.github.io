@@ -34,6 +34,13 @@ layout: default
 
 **Week 02, 08/27 - 08/31:** Binary Exploitation Part 1
 
+- Monday, August 27, 2018
+   - Lecture: [Buffer Overflows](/resources/lectures/BufferOverflows.pdf), [Puzzle1.java](https://gist.github.com/benjholla/2cd9233ebd14866243a5af61a0c33f04)
+   - Reading: [Smashing The Stack For Fun And Profit](/resources/readings/stack_smashing.pdf)
+   - Simulator: [bomod](https://github.com/benjholla/bomod)
+   - Virtual Machine: [HackingLive.ova (VirtualBox only)]()
+   - Suggested Reference: [Hacking: The Art of Exploitation (2nd Edition)](https://nostarch.com/hacking2.htm)
+
 **Week 03, 09/03 - 09/07:** Binary Exploitation Part 2
 
 - Monday, September 3, 2018: Labor Day (No Class)
