@@ -44,6 +44,12 @@ layout: default
    - Virtual Machine: [HackingLive.ova](http://www.benjaminsbox.com/pac/HackingLive.ova) ([VirtualBox](https://www.virtualbox.org/) only)
    - Suggested Reference: [Hacking: The Art of Exploitation (2nd Edition)](https://nostarch.com/hacking2.htm)
 
+- Wednesday, August 29, 2018
+   - Assignment 1 due at 12PM noon
+
+- Friday, August 31, 2018
+   -  In Class Activity: Capture the Flag
+
 **Week 03, 09/03 - 09/07:** Binary Exploitation Part 2
 
 - Monday, September 3, 2018: Labor Day (No Class)
