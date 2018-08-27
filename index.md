@@ -10,7 +10,9 @@ layout: default
 
 **Syllabus:** [Revision 1](/resources/SE421_Fall_2018_Syllabus.pdf)
 
-**Teaching Assistants:** TBD
+**Teaching Assistants:** 
+   - Bryan Hall
+   - Payas Awadhutkar
 
 <br />
 
@@ -35,6 +37,7 @@ layout: default
 **Week 02, 08/27 - 08/31:** Binary Exploitation Part 1
 
 - Monday, August 27, 2018
+   - Announcement: Assignment 1 extended until Wednesday at 12PM noon
    - Lecture: [Buffer Overflows](/resources/lectures/BufferOverflows.pdf), [Puzzle1.java](https://gist.github.com/benjholla/2cd9233ebd14866243a5af61a0c33f04)
    - Reading: [Smashing The Stack For Fun And Profit](/resources/readings/stack_smashing.pdf)
    - Simulator: [bomod](https://github.com/benjholla/bomod)
