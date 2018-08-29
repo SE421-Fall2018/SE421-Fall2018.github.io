@@ -60,6 +60,7 @@ layout: default
    - In Class Activity: [ClassActivity2.pdf](#), [Puzzle4.java](#)
 
 - Friday, September 7, 2018
+   - Due: Assignment 2 at 12PM noon
    - Lecture: [Atlas Query Language](#),  [Puzzle5.java](#)
 
 **Week 04, 09/10 - 09/14:** Control Flow Graphs + Path Counting
