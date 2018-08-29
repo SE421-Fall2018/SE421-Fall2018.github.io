@@ -26,7 +26,7 @@ layout: default
    - Lecture: [Welcome](/resources/lectures/Welcome.pdf), [SE421.java](https://gist.github.com/benjholla/517d336339fd5f2b2068d320490acefe)
    - Review: [Syllabus](/resources/SE421_Fall_2018_Syllabus.pdf)
    - Reading: [Reflections on Trusting Trust](/resources/readings/p761-thompson.pdf)
-   - Assignment: [Assignment 1](https://classroom.github.com/a/udSnZfJ4) (due ~~Monday, August 27, 2018~~ Wednesday, August 29, 2018 at 12 PM noon)
+   - Assignment: [Assignment 1](https://classroom.github.com/a/udSnZfJ4), [PDF](https://github.com/SE421/assignment1/raw/master/assignment1.pdf) (due ~~Monday, August 27, 2018~~ Wednesday, August 29, 2018 at 12 PM noon)
 
 - Wednesday, August 22, 2018
    - Guest Lecture: [Suresh Kothari](https://www.linkedin.com/in/surajkothari)
@@ -46,6 +46,8 @@ layout: default
 
 - Wednesday, August 29, 2018
    - Assignment 1 due at 12PM noon
+   - Assignment: [Assignment 2](https://classroom.github.com/a/wAuXXash), [PDF](https://github.com/SE421/assignment2/raw/master/assignment2.pdf) (due Friday, September 7, 2018 at 12:00 PM (noon))
+   - Lecture: Continue [Buffer Overflows](/resources/lectures/BufferOverflows.pdf)
 
 - Friday, August 31, 2018
    -  In Class Activity: Capture the Flag
