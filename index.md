@@ -34,7 +34,7 @@ layout: default
 - Friday, August 24, 2018
    - In Class Activity: [ClassActivity1.pdf](/resources/lectures/ClassActivity1.pdf), [ClassActivity1.java](https://gist.github.com/benjholla/dc45ca6926ec162aa59394c646754166), [Quine.java](https://gist.github.com/benjholla/5f57727305e52c84d515656ec617bfdd)
 
-**Week 02, 08/27 - 08/31:** Binary Exploitation Part 1
+## Week 02, 08/27 - 08/31: Binary Exploitation Part 1
 
 - Monday, August 27, 2018
    - Announcement: Assignment 1 extended until Wednesday at 12PM noon
@@ -52,7 +52,7 @@ layout: default
 - Friday, August 31, 2018
    - Lecture: Continuation of [Buffer Overflows](/resources/lectures/BufferOverflows.pdf), [Puzzle3.java](#)
 
-**Week 03, 09/03 - 09/07:** Binary Exploitation Part 2
+## Week 03, 09/03 - 09/07: Binary Exploitation Part 2
 
 - Monday, September 3, 2018
    - Labor Day (No Class)
@@ -64,9 +64,9 @@ layout: default
    - Due: Assignment 2 at 12PM noon
    - Lecture: [Atlas Query Language](#),  [Puzzle5.java](#)
 
-**Week 04, 09/10 - 09/14:** Control Flow Graphs + Path Counting
+## Week 04, 09/10 - 09/14: Control Flow Graphs + Path Counting
 
-**Week 05, 09/17 - 09/21:** Data Flow Graphs + Points-to Analysis
+## Week 05, 09/17 - 09/21: Data Flow Graphs + Points-to Analysis
 
 - Monday, September 17, 2018
    - Guest Lecture
