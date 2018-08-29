@@ -54,7 +54,8 @@ layout: default
 
 **Week 03, 09/03 - 09/07:** Binary Exploitation Part 2
 
-- Monday, September 3, 2018: Labor Day (No Class)
+- Monday, September 3, 2018
+   - Labor Day (No Class)
 
 - Wednesday, September 5, 2018
    - In Class Activity: [ClassActivity2.pdf](#), [Puzzle4.java](#)
