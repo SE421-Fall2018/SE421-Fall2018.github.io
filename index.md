@@ -50,17 +50,30 @@ layout: default
    - Lecture: Continuation of [Buffer Overflows](/resources/lectures/BufferOverflows.pdf), [Puzzle2.java](https://gist.github.com/benjholla/b9c6a7984da3f92f8e106f9ed5106c92)
 
 - Friday, August 31, 2018
-   -  In Class Activity: Capture the Flag
+   - Lecture: Continuation of [Buffer Overflows](/resources/lectures/BufferOverflows.pdf), [Puzzle3.java](#)
 
 **Week 03, 09/03 - 09/07:** Binary Exploitation Part 2
 
 - Monday, September 3, 2018: Labor Day (No Class)
 
+- Wednesday, September 5, 2018
+   - In Class Activity: [ClassActivity2.pdf](#), [Puzzle4.java](#)
+
+- Friday, September 7, 2018
+   - Lecture: [Atlas Query Language](#),  [Puzzle5.java](#)
+
 **Week 04, 09/10 - 09/14:** Control Flow Graphs + Path Counting
 
 **Week 05, 09/17 - 09/21:** Data Flow Graphs + Points-to Analysis
 
-- Monday, September 17, 2018: Midterm Exam 1
+- Monday, September 17, 2018
+   - Guest Lecture
+   - Reminder: [Engineering Career Fair on September 18, 2018](https://www.engineering.iastate.edu/ecs/employers/career-fair/)...go to it!
+   
+- Wednesday, September 19, 2018
+
+- Friday, September 21, 2018
+   - Midterm Exam 1
 
 **Week 06, 09/24 - 09/28:** Call Graph Construction
 
