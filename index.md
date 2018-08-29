@@ -47,7 +47,7 @@ layout: default
 - Wednesday, August 29, 2018
    - Due: Assignment 1 at 12PM noon
    - Assignment: [Assignment 2](https://classroom.github.com/a/wAuXXash), [PDF](https://github.com/SE421/assignment2/blob/master/assignment2.pdf) (due Friday, September 7, 2018 at 12:00 PM noon)
-   - Lecture: Continue [Buffer Overflows](/resources/lectures/BufferOverflows.pdf)
+   - Lecture: Continuation of [Buffer Overflows](/resources/lectures/BufferOverflows.pdf), [Puzzle2.java](https://gist.github.com/benjholla/b9c6a7984da3f92f8e106f9ed5106c92)
 
 - Friday, August 31, 2018
    -  In Class Activity: Capture the Flag
