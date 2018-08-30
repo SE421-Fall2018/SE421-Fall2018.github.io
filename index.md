@@ -29,7 +29,7 @@ layout: default
    - Assignment: [Assignment 1](https://classroom.github.com/a/udSnZfJ4), [PDF](https://github.com/SE421/assignment1/blob/master/assignment1.pdf) (due ~~Monday, August 27, 2018~~ Wednesday, August 29, 2018 at 12 PM noon)
 
 - Wednesday, August 22, 2018
-   - Guest Lecture: [Suresh Kothari](https://www.linkedin.com/in/surajkothari)
+   - Guest Lecture: [Suresh Kothari](https://www.linkedin.com/in/surajkothari) (Richardson Professor - Iowa State University)
 
 - Friday, August 24, 2018
    - In Class Activity: [ClassActivity1.pdf](/resources/lectures/ClassActivity1.pdf), [ClassActivity1.java](https://gist.github.com/benjholla/dc45ca6926ec162aa59394c646754166), [Quine.java](https://gist.github.com/benjholla/5f57727305e52c84d515656ec617bfdd)
@@ -69,7 +69,7 @@ layout: default
 ## Week 05, 09/17 - 09/21: Data Flow Graphs + Points-to Analysis
 
 - Monday, September 17, 2018
-   - Guest Lecture
+   - Guest Lecture: [John Chargo](https://www.linkedin.com/in/john-chargo-19556822) (Senior Engineering Manager - Rockwell Collins) 
    - Reminder: [Engineering Career Fair on September 18, 2018](https://www.engineering.iastate.edu/ecs/employers/career-fair/)...go to it!
    
 - Wednesday, September 19, 2018
