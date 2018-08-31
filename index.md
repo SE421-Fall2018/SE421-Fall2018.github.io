@@ -50,7 +50,7 @@ layout: default
    - Lecture: Continuation of [Buffer Overflows](/resources/lectures/BufferOverflows.pdf), [Puzzle2.java](https://gist.github.com/benjholla/b9c6a7984da3f92f8e106f9ed5106c92)
 
 - Friday, August 31, 2018
-   - Lecture: Continuation of [Buffer Overflows](/resources/lectures/BufferOverflows.pdf), [Puzzle3.java](#)
+   - Lecture: Continuation of [Buffer Overflows](/resources/lectures/BufferOverflows.pdf), [CrackMe1.java](https://gist.github.com/benjholla/89a097622f1692964db3a482ce7b47f7)
 
 ## Week 03, 09/03 - 09/07: Binary Exploitation Part 2
 
