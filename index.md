@@ -62,9 +62,9 @@ layout: default
    - In Class Activity: [ClassActivity2.pdf](/resources/lectures/ClassActivity2.pdf), [Puzzle3.java](https://gist.github.com/benjholla/ad1a0b35a5f98c1617afc9064329b6d4)
 
 - Friday, September 7, 2018
-   - Due: Assignment 2 at 12PM noon
+   - Due: Assignment 2 at 12:00 PM noon
    - Lecture: [Atlas Query Language](/resources/lectures/AtlasQueries.pdf),  [Puzzle4.java](https://gist.github.com/benjholla/73044f36a99d42653bdbebc40343c689)
-   - Assignment: [Assignment 3](#), [PDF](#) (due Moday, September 17, 2018 at 12:00 PM noon)
+   - Assignment: [Assignment 3](#), [PDF](#) (due Monday, September 17, 2018 at 12:00 PM noon)
 
 ## Week 04, 09/10 - 09/14: Control Flow Graphs + Path Counting
 
