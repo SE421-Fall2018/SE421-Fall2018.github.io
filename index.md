@@ -64,7 +64,7 @@ layout: default
 - Friday, September 7, 2018
    - Due: Assignment 2 at 12:00 PM noon
    - Lecture: [Atlas Query Language](/resources/lectures/AtlasQueries.pdf),  [Puzzle4.java](https://gist.github.com/benjholla/73044f36a99d42653bdbebc40343c689)
-   - Assignment: [Assignment 3](#), [PDF](#) (due Monday, September 17, 2018 at 12:00 PM noon)
+   - Assignment: [Assignment 3](https://classroom.github.com/a/g-BvhZR_), [PDF](https://github.com/SE421/assignment3/blob/master/assignment3.pdf) (due Monday, September 17, 2018 at 12:00 PM noon)
 
 ## Week 04, 09/10 - 09/14: Control Flow Graphs + Path Counting
 
