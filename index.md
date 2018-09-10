@@ -6,7 +6,7 @@ layout: default
 
 **Class Meets:** M/W/F 12:10-1:00pm in Gilman 2354
 
-**Open Help Hours:** W/F 1:10-2:00pm in Gilman 1810
+**Open Help Hours:** M/W/F 1:10-2:00pm in Gilman 1810
 
 **Syllabus:** [Revision 1](/resources/SE421_Fall_2018_Syllabus.pdf)
 
@@ -67,6 +67,10 @@ layout: default
    - Assignment: [Assignment 3](https://classroom.github.com/a/g-BvhZR_), [PDF](https://github.com/SE421/assignment3/blob/master/assignment3.pdf) (due Monday, September 17, 2018 at 12:00 PM noon)
 
 ## Week 04, 09/10 - 09/14: Control Flow Graphs + Path Counting
+
+- Monday, September 9, 2018
+   - Reading: [Control Flow Analysis](/resources/readings/p1-allen.pdf)
+   - In Class Activity: [ClassActivity3.pdf](/resources/lectures/ClassActivity3.pdf), [Puzzle5.java](https://gist.github.com/benjholla/e83bc9c8354e47a47a83757ac905903d)
 
 ## Week 05, 09/17 - 09/21: Data Flow Graphs + Points-to Analysis
 
