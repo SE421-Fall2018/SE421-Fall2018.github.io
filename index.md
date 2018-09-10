@@ -75,6 +75,7 @@ layout: default
 ## Week 05, 09/17 - 09/21: Data Flow Graphs + Points-to Analysis
 
 - Monday, September 17, 2018
+   - Due: Assignment 3 at 12:00 PM noon
    - Guest Lecture: [John Chargo](https://www.linkedin.com/in/john-chargo-19556822) (Senior Engineering Manager - Rockwell Collins) 
    - Reminder: [Engineering Career Fair on September 18, 2018](https://www.engineering.iastate.edu/ecs/employers/career-fair/)...go to it!
    
