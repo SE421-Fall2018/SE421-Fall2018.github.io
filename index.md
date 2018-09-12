@@ -76,7 +76,7 @@ layout: default
    - In Class Activity: Continuation of [ClassActivity3.pdf](/resources/lectures/ClassActivity3.pdf), [Puzzle6.java](https://gist.github.com/benjholla/611daa87ec2608a4629771ea68f1165b)
    
 - Friday, September 14, 2018
-   - Lecture: [Path Counting](#),[Puzzle7.java](#)
+   - Lecture: [Path Counting](#), [Puzzle7.java](#)
 
 ## Week 05, 09/17 - 09/21: Data Flow Graphs + Points-to Analysis
 
