@@ -72,6 +72,9 @@ layout: default
    - Reading: [Control Flow Analysis](/resources/readings/p1-allen.pdf)
    - In Class Activity: [ClassActivity3.pdf](/resources/lectures/ClassActivity3.pdf), [Puzzle5.java](https://gist.github.com/benjholla/e83bc9c8354e47a47a83757ac905903d)
 
+- Wednesday, September 12, 2018
+- In Class Activity: Continuation of [ClassActivity3.pdf](/resources/lectures/ClassActivity3.pdf), [Puzzle6.java](https://gist.github.com/benjholla/611daa87ec2608a4629771ea68f1165b) 
+
 ## Week 05, 09/17 - 09/21: Data Flow Graphs + Points-to Analysis
 
 - Monday, September 17, 2018
