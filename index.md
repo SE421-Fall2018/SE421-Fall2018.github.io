@@ -77,7 +77,7 @@ layout: default
    - In Class Activity: Continuation of [ClassActivity3.pdf](/resources/lectures/ClassActivity3.pdf), [Puzzle6.java](https://gist.github.com/benjholla/611daa87ec2608a4629771ea68f1165b)
    
 - Friday, September 14, 2018
-   - Lecture: [Path Counting](#), [Puzzle7.java](#)
+   - Lecture: [Path Counting](/resources/lectures/PathCounting.pdf), [Puzzle7.java](https://gist.github.com/benjholla/ad65c1f91581b22b718ccd25b991a327), [Puzzle8.java](https://gist.github.com/benjholla/ff2510379247179041ff63e117f01abc)
 
 ## Week 05, 09/17 - 09/21: Data Flow Graphs + Points-to Analysis
 
@@ -87,8 +87,10 @@ layout: default
    - Reminder: [Engineering Career Fair on September 18, 2018](https://www.engineering.iastate.edu/ecs/employers/career-fair/)...go to it!
    
 - Wednesday, September 19, 2018
+   - Lecture: [Data Flow Graphs](#)
 
 - Friday, September 21, 2018
+   - Lecture: [Points-to Analysis](#)
 
 ## Week 06, 09/24 - 09/28:** Call Graph Construction
 
