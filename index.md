@@ -92,7 +92,7 @@ layout: default
 - Friday, September 21, 2018
    - Lecture: [Points-to Analysis](#)
 
-## Week 06, 09/24 - 09/28:** Call Graph Construction
+## Week 06, 09/24 - 09/28: Call Graph Construction
 
 - Wednesday, September 26, 2018
    - Review for Midterm Exam 1
