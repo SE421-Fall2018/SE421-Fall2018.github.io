@@ -89,9 +89,14 @@ layout: default
 - Wednesday, September 19, 2018
 
 - Friday, September 21, 2018
-   - Midterm Exam 1
 
-**Week 06, 09/24 - 09/28:** Call Graph Construction
+## Week 06, 09/24 - 09/28:** Call Graph Construction
+
+- Wednesday, September 26, 2018
+   - Review for Midterm Exam 1
+
+- Friday, September 28, 2018
+   - Midterm Exam 1
 
 **Week 07, 10/01 - 10/05:** Program Slicing + Taint Analysis + Projected Control Graphs
 
@@ -99,7 +104,12 @@ layout: default
 
 **Week 09, 10/15 - 10/19:** Algorithmic Complexity and Side Channel Attacks
 
-- Monday, October 15, 2018: Midterm Exam 2
+- Monday, October 15, 2018: TBD
+
+- Wednesday, October 17, 2018
+   - Review for Midterm Exam 2
+
+- Friday, October 19, 2018: Midterm Exam 2
 
 **Week 10, 10/22 - 10/26:** Web Security
 
@@ -123,3 +133,4 @@ layout: default
 
 **Week 17, 12/10 - 12/14:** Final Exams
 - **Required Final Exam Activity** during two hour period arranged by *First Contact Hour* (see [https://www.registrar.iastate.edu/students/exams/fallexams#stand](https://www.registrar.iastate.edu/students/exams/fallexams#stand))
+  - Final Exam Period: Wednesday Dec. 12 @ 2:15-4:15 p.m.
