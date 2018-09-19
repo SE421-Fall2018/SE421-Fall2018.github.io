@@ -88,11 +88,15 @@ layout: default
    
 - Wednesday, September 19, 2018
    - Lecture: [Data Flow Graphs](#)
+   - Assignment 4
 
 - Friday, September 21, 2018
    - Lecture: [Points-to Analysis](#)
 
-## Week 06, 09/24 - 09/28: Call Graph Construction
+## Week 06, 09/24 - 09/28: Midterm 1
+
+- Monday, September 24, 2018
+   - Class Activity
 
 - Wednesday, September 26, 2018
    - Review for Midterm Exam 1
@@ -100,39 +104,59 @@ layout: default
 - Friday, September 28, 2018
    - Midterm Exam 1
 
-**Week 07, 10/01 - 10/05:** Program Slicing + Taint Analysis + Projected Control Graphs
+## Week 07, 10/01 - 10/05: Call Graph Construction
 
-**Week 08, 10/08 - 10/12:** Dynamic Analysis
+- Monday, October 1, 2018
+   - Due: Assignment 4
+   - Assignment 5
 
-**Week 09, 10/15 - 10/19:** Algorithmic Complexity and Side Channel Attacks
+## Week 08, 10/08 - 10/12: Program Slicing + Taint Analysis + Projected Control Graphs
 
-- Monday, October 15, 2018: TBD
+- Monday, October 8, 2018
+  - Due: Assignment 5
+  - Assignment 6
+
+## Week 09, 10/15 - 10/19: Dynamic Analysis + Algorithmic Complexity and Side Channel Attacks
+
+- Monday, October 15, 2018
+  - Due: Assignment 6
 
 - Wednesday, October 17, 2018
    - Review for Midterm Exam 2
 
 - Friday, October 19, 2018: Midterm Exam 2
 
-**Week 10, 10/22 - 10/26:** Web Security
+## Week 10, 10/22 - 10/26: Web Security
+
+- Monday, October 22, 2018
+   - Release project
+   - Assignment: Vulnerability Assessment Report
+   - Assignment: Penetration Test Report + Presentation Slides
 
 - Friday, October 26, 2018: Last day to drop
 
-**Week 11, 10/29 - 11/02:** Android Security
+## Week 11, 10/29 - 11/02: Android Security
 
-**Week 12, 11/05 - 11/09:** Threat Modeling + Human-in-the-loop Analysis
+## Week 12, 11/05 - 11/09: Threat Modeling + Human-in-the-loop Analysis
 
-**Week 13, 11/12 - 11/16:** Secure Software Development + Penetration Testing
+## Week 13, 11/12 - 11/16: Secure Software Development + Penetration Testing
 
-- Final Project Vulnerability Assessment Report Due
+- Friday, November 16, 2018
+	- Due: Final Project Vulnerability Assessment Report
 
-**Week 14, 11/19 - 11/23:** Thanksgiving (No Classes)
+## Week 14, 11/19 - 11/23: Thanksgiving (No Classes)
 
-**Week 15, 11/26 - 11/30:** Final Project Engagement (Attack Phase)
+## Week 15, 11/26 - 11/30: Final Project Engagement (Attack Phase)
 
-**Week 16, 12/03 - 12/07 (Dead Week):** Modern Trends in Program Analysis
+## Week 16, 12/03 - 12/07 (Dead Week): Modern Trends in Program Analysis
 
-- Final Project Penetration Test Report Due
+- Wednesday, December 5, 2018
+   - Due: Final Project Penetration Test Report
+   - First Set of Presentations
 
+- Friday, December 7, 2018
+   - Second Set of Presentations
+   
 **Week 17, 12/10 - 12/14:** Final Exams
 - **Required Final Exam Activity** during two hour period arranged by *First Contact Hour* (see [https://www.registrar.iastate.edu/students/exams/fallexams#stand](https://www.registrar.iastate.edu/students/exams/fallexams#stand))
   - Final Exam Period: Wednesday Dec. 12 @ 2:15-4:15 p.m.
