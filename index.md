@@ -137,9 +137,9 @@ layout: default
 
 ## Week 11, 10/29 - 11/02: Android Security
 
-## Week 12, 11/05 - 11/09: Threat Modeling + Human-in-the-loop Analysis
+## Week 12, 11/05 - 11/09: Threat Modeling + Privacy + IoT
 
-## Week 13, 11/12 - 11/16: Secure Software Development + Penetration Testing
+## Week 13, 11/12 - 11/16: Secure Software Development + Penetration Testing + Human-in-the-loop Analysis
 
 - Friday, November 16, 2018
 	- Due: Final Project Vulnerability Assessment Report
