@@ -87,11 +87,12 @@ layout: default
    - Reminder: [Engineering Career Fair on September 18, 2018](https://www.engineering.iastate.edu/ecs/employers/career-fair/)...go to it!
    
 - Wednesday, September 19, 2018
-   - Lecture: [Data Flow Graphs](/resources/lectures/DataFlowGraphs.pdf)
+   - Lecture: [Data Flow Graphs](/resources/lectures/DataFlowGraphs.pdf), [Puzzle9.java](https://gist.github.com/benjholla/a8a3d53f0d27a271ca36f63fe3afe222)
 
 - Friday, September 21, 2018
+   - Readings: [Pointer Analysis](/resources/readings/points-to-tutorial15.pdf), [Pointer Analysis: Haven't We Solved This Problem Yet?](/resources/readings/hind-paste01.pdf)
    - Assignment: [Assignment 4](#), [PDF](#) (due Monday, October 4, 2018 at 12:00 PM noon)
-   - Lecture: [Points-to Analysis](#)
+   - Lecture: [Points-to Analysis](#), [Puzzle10.java](https://gist.github.com/benjholla/bdf05d9733d6881a4534c80cf06737d1)
 
 ## Week 06, 09/24 - 09/28: Midterm 1
 
