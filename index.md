@@ -87,10 +87,10 @@ layout: default
    - Reminder: [Engineering Career Fair on September 18, 2018](https://www.engineering.iastate.edu/ecs/employers/career-fair/)...go to it!
    
 - Wednesday, September 19, 2018
-   - Lecture: [Data Flow Graphs](#)
-   - Assignment 4
+   - Lecture: [Data Flow Graphs](/resources/lectures/DataFlowGraphs.pdf)
 
 - Friday, September 21, 2018
+   - Assignment: [Assignment 4](#), [PDF](#) (due Monday, October 4, 2018 at 12:00 PM noon)
    - Lecture: [Points-to Analysis](#)
 
 ## Week 06, 09/24 - 09/28: Midterm 1
