@@ -91,7 +91,7 @@ layout: default
 
 - Friday, September 21, 2018
    - Readings: [Pointer Analysis](/resources/readings/points-to-tutorial15.pdf), [Pointer Analysis: Haven't We Solved This Problem Yet?](/resources/readings/hind-paste01.pdf)
-   - Assignment: [Assignment 4](https://classroom.github.com/a/oKTLRYCG), [PDF](#) (due Monday, October 1, 2018 at 12:00 PM noon)
+   - Assignment: [Assignment 4](https://classroom.github.com/a/oKTLRYCG), [PDF](https://github.com/SE421/assignment4/blob/master/assignment4.pdf) (due Monday, October 1, 2018 at 12:00 PM noon)
    - Lecture: [Points-to Analysis](/resources/lectures/PointsToAnalysis.pdf), [Puzzle10.java](https://gist.github.com/benjholla/bdf05d9733d6881a4534c80cf06737d1)
 
 ## Week 06, 09/24 - 09/28: Midterm 1
