@@ -83,7 +83,7 @@ layout: default
 
 - Monday, September 17, 2018
    - Due: Assignment 3 at 12:00 PM noon
-   - Guest Lecture: [John Chargo](https://www.linkedin.com/in/john-chargo-19556822) (Senior Engineering Manager - Rockwell Collins) 
+   - Guest Lecture: [John Chargo](https://www.linkedin.com/in/john-chargo-19556822) (Senior Engineering Manager - Rockwell Collins)
    - Reminder: [Engineering Career Fair on September 18, 2018](https://www.engineering.iastate.edu/ecs/employers/career-fair/)...go to it!
    
 - Wednesday, September 19, 2018
@@ -140,10 +140,16 @@ layout: default
 
 ## Week 12, 11/05 - 11/09: Threat Modeling + Privacy + IoT
 
+- Monday, November 5, 2018
+   - Guest Lecture: (Threat Modeling) [Ben Schmitt](https://www.linkedin.com/in/beschmitt/) (Vice President of Information Security - Dwolla) and [Chen Cao](https://www.chencao93.com/) (Information Security Analyst - Dwolla)
+
 ## Week 13, 11/12 - 11/16: Secure Software Development + Penetration Testing + Human-in-the-loop Analysis
 
+- Monday, November 12, 2018
+   - Guest Lecture: (Pentration Testing) [Ben Schmitt](https://www.linkedin.com/in/beschmitt/) (Vice President of Information Security - Dwolla) and [Chen Cao](https://www.chencao93.com/) (Information Security Analyst - Dwolla)
+
 - Friday, November 16, 2018
-	- Due: Final Project Vulnerability Assessment Report
+   - Due: Final Project Vulnerability Assessment Report
 
 ## Week 14, 11/19 - 11/23: Thanksgiving (No Classes)
 
