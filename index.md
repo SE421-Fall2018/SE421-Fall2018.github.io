@@ -97,10 +97,10 @@ layout: default
 ## Week 06, 09/24 - 09/28: Midterm 1
 
 - Monday, September 24, 2018
-   - Class Activity
+   - In Class Activity: [ClassActivity4.pdf](/resources/lectures/ClassActivity4.pdf), [Puzzle11.java](https://gist.github.com/benjholla/7e885cf6ec8884249612843bef009095)
 
 - Wednesday, September 26, 2018
-   - Review for Midterm Exam 1
+   - Review:  [MidtermExam1Review.pdf](/resources/lectures/MidtermExam1Review.pdf), [Puzzle12.java](https://gist.github.com/benjholla/fd4801f29e96c2408ae86b62e10ef2a1)
 
 - Friday, September 28, 2018
    - Midterm Exam 1
