@@ -29,7 +29,7 @@ layout: default
    - Assignment: [Assignment 1](https://classroom.github.com/a/udSnZfJ4), [PDF](https://github.com/SE421/assignment1/blob/master/assignment1.pdf) (due ~~Monday, August 27, 2018~~ Wednesday, August 29, 2018 at 12 PM noon)
 
 - Wednesday, August 22, 2018
-   - Guest Lecture: Software Graph Models [Suresh Kothari](https://www.linkedin.com/in/surajkothari) (Richardson Professor - Iowa State University)
+   - Guest Lecture: *Software Graph Models* by [Suresh Kothari](https://www.linkedin.com/in/surajkothari) (Richardson Professor - Iowa State University)
 
 - Friday, August 24, 2018
    - In Class Activity: [ClassActivity1.pdf](/resources/lectures/ClassActivity1.pdf), [ClassActivity1.java](https://gist.github.com/benjholla/dc45ca6926ec162aa59394c646754166), [Quine.java](https://gist.github.com/benjholla/5f57727305e52c84d515656ec617bfdd)
@@ -83,7 +83,7 @@ layout: default
 
 - Monday, September 17, 2018
    - Due: Assignment 3 at 12:00 PM noon
-   - Guest Lecture: Software Security in Practice [John Chargo](https://www.linkedin.com/in/john-chargo-19556822) (Senior Engineering Manager - Rockwell Collins)
+   - Guest Lecture: *Software Security in Practice* by [John Chargo](https://www.linkedin.com/in/john-chargo-19556822) (Senior Engineering Manager - Rockwell Collins)
    - Reminder: [Engineering Career Fair on September 18, 2018](https://www.engineering.iastate.edu/ecs/employers/career-fair/)...go to it!
    
 - Wednesday, September 19, 2018
@@ -126,7 +126,7 @@ layout: default
   - Lecture: Dynamic Analysis
 
 - Wednesday, October 17, 2018
-   - Guest Lecture: Machine Learning in Security [Benjamin Blakely](https://www.linkedin.com/in/benjaminablakely/) (Cyber Security Researcher - Argonne National Laboratory)
+   - Guest Lecture: *Machine Learning in Security* by [Benjamin Blakely](https://www.linkedin.com/in/benjaminablakely/) (Cyber Security Researcher - Argonne National Laboratory)
 
 - Friday, October 19, 2018
    - Review for Midterm Exam 2
@@ -146,12 +146,12 @@ layout: default
 ## Week 12, 11/05 - 11/09: Threat Modeling + Privacy + IoT
 
 - Monday, November 5, 2018
-   - Guest Lecture: (Threat Modeling) [Ben Schmitt](https://www.linkedin.com/in/beschmitt/) (Vice President of Information Security - Dwolla) and [Chen Cao](https://www.chencao93.com/) (Information Security Analyst - Dwolla)
+   - Guest Lecture: *Threat Modeling* by [Ben Schmitt](https://www.linkedin.com/in/beschmitt/) (Vice President of Information Security - Dwolla) and [Chen Cao](https://www.chencao93.com/) (Information Security Analyst - Dwolla)
 
 ## Week 13, 11/12 - 11/16: Secure Software Development + Penetration Testing + Human-in-the-loop Analysis
 
 - Monday, November 12, 2018
-   - Guest Lecture: (Pentration Testing) [Ben Schmitt](https://www.linkedin.com/in/beschmitt/) (Vice President of Information Security - Dwolla) and [Chen Cao](https://www.chencao93.com/) (Information Security Analyst - Dwolla)
+   - Guest Lecture: *Pentration Testing* by [Ben Schmitt](https://www.linkedin.com/in/beschmitt/) (Vice President of Information Security - Dwolla) and [Chen Cao](https://www.chencao93.com/) (Information Security Analyst - Dwolla)
 
 - Friday, November 16, 2018
    - Due: Final Project Vulnerability Assessment Report
