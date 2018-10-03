@@ -111,7 +111,11 @@ layout: default
    - Due: Assignment 4 at 12:00 PM noon
    - Assignment: [Assignment 5](https://classroom.github.com/a/KUVR7T96), [PDF](https://github.com/SE421/assignment5/blob/master/assignment5.pdf) (due Monday, October 8, 2018 at 12:00 PM noon)
    - Readings: [Optimization of Object-Oriented Programs Using Static Class Hierarchy Analysis](/resources/readings/dean-grove-chambers-ecoop95.pdf), [Fast Static Analysis of C++ Virtual Function Calls](/resources/readings/Bacon96Fast.pdf), [Scalable Propagation-Based Call Graph Construction Algorithms](/resources/readings/oopsla00.pdf)
-   - Lecture: [Dispatches.pdf](/resources/lectures/Dispatches.pdf), [Puzzle13.java](https://gist.github.com/benjholla/42633cb2c4f396b7e1e871d04254d236)
+   - Review: Midterm 1
+   - Lecture: [CallGraphConstruction.pdf](/resources/lectures/CallGraphConstruction.pdf), [Puzzle13.java](https://gist.github.com/benjholla/42633cb2c4f396b7e1e871d04254d236)
+   
+- Wednesday, October 3, 2018
+   - Continuation of [CallGraphConstruction.pdf](/resources/lectures/CallGraphConstruction.pdf)
    
 ## Week 08, 10/08 - 10/12: Program Slicing + Taint Analysis + Projected Control Graphs
 
