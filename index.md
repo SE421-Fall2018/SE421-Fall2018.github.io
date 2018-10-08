@@ -126,6 +126,9 @@ layout: default
 
 - Monday, October 8, 2018
   - Due: Assignment 5 at 12:00 PM noon
+  - Lecture: [ProgramSlicing.pdf](/resources/lectures/ProgramSlicing.pdf)
+  
+- Wednesday, October 10, 2018
   - Assignment 6
 
 ## Week 09, 10/15 - 10/19: Dynamic Analysis
