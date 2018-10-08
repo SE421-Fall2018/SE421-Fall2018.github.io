@@ -126,6 +126,7 @@ layout: default
 
 - Monday, October 8, 2018
   - Due: Assignment 5 at 12:00 PM noon
+  - Reading: [Program slicing](/resources/readings/WeiserStaticSlicing.pdf), [The program dependence graph and its use in optimization](/resources/readings/ferrante87.pdf), [Interprocedural slicing using dependence graphs](/resources/readings/p26-horwitz.pdf)
   - Lecture: [ProgramSlicing.pdf](/resources/lectures/ProgramSlicing.pdf)
   
 - Wednesday, October 10, 2018
