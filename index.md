@@ -130,7 +130,7 @@ layout: default
   - Lecture: [ProgramSlicing.pdf](/resources/lectures/ProgramSlicing.pdf), [Puzzle14.java](https://gist.github.com/benjholla/5d5ba6ee8a756397193ebe1ca5d51ae2)
   
 - Wednesday, October 10, 2018
-  - Assignment 6
+  - Assignment: [Assignment 6](https://classroom.github.com/a/-jxEULsk), [PDF](https://github.com/SE421/assignment6/blob/master/assignment6.pdf) (due Monday, October 19, 2018 at 12:00 PM noon)
 
 ## Week 09, 10/15 - 10/19: Dynamic Analysis
 
