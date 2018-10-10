@@ -131,7 +131,8 @@ layout: default
   
 - Wednesday, October 10, 2018
   - Assignment: [Assignment 6](https://classroom.github.com/a/-jxEULsk), [PDF](https://github.com/SE421/assignment6/blob/master/assignment6.pdf) (due Monday, October 19, 2018 at 12:00 PM noon)
-
+  - Lecture: [ProjectedControlGraphs.pdf](/resources/lectures/ProjectedControlGraphs.pdf), [Puzzle15.java](https://gist.github.com/benjholla/726727be137de1187c7484df35383428)
+  
 ## Week 09, 10/15 - 10/19: Dynamic Analysis
 
 - Monday, October 15, 2018
