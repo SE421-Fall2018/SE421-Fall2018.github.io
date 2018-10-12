@@ -134,7 +134,7 @@ layout: default
   - Lecture: [ProjectedControlGraphs.pdf](/resources/lectures/ProjectedControlGraphs.pdf), [Puzzle15.java](https://gist.github.com/benjholla/726727be137de1187c7484df35383428)
   
 - Friday, October 12, 2018
-  - Lecture: PCGs in Practice by Payas Awadhutkar, [puzzle16.c](https://gist.github.com/benjholla/ff9bbcddbf39cb8289dff0b921c72b40)
+  - Lecture: *Building Tools to Verify Linux* by Payas Awadhutkar, [puzzle16.c](https://gist.github.com/benjholla/ff9bbcddbf39cb8289dff0b921c72b40)
   - Class Activity: Work on Assignment 6
   
 ## Week 09, 10/15 - 10/19: Dynamic Analysis
