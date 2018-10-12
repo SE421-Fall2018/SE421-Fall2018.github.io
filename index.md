@@ -133,17 +133,21 @@ layout: default
   - Assignment: [Assignment 6](https://classroom.github.com/a/-jxEULsk), [PDF](https://github.com/SE421/assignment6/blob/master/assignment6.pdf) (due Monday, October 19, 2018 at 12:00 PM noon)
   - Lecture: [ProjectedControlGraphs.pdf](/resources/lectures/ProjectedControlGraphs.pdf), [Puzzle15.java](https://gist.github.com/benjholla/726727be137de1187c7484df35383428)
   
+- Friday, October 12, 2018
+  - Lecture: PCGs in Practice by Payas Awadhutkar, [puzzle16.c](https://gist.github.com/benjholla/ff9bbcddbf39cb8289dff0b921c72b40)
+  - Class Activity: Work on Assignment 6
+  
 ## Week 09, 10/15 - 10/19: Dynamic Analysis
 
 - Monday, October 15, 2018
-  - Due: Assignment 6 at 12:00 PM noon
   - Lecture: Dynamic Analysis
 
 - Wednesday, October 17, 2018
    - Guest Lecture: *Machine Learning in Security* by [Benjamin Blakely](https://www.linkedin.com/in/benjaminablakely/) (Cyber Security Researcher - Argonne National Laboratory)
 
 - Friday, October 19, 2018
-   - Review for Midterm Exam 2
+  - Due: Assignment 6 at 12:00 PM noon
+  - Review for Midterm Exam 2
 
 ## Week 10, 10/22 - 10/26: Web Security
 
