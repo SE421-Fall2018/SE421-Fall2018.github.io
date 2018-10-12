@@ -130,7 +130,7 @@ layout: default
   - Lecture: [ProgramSlicing.pdf](/resources/lectures/ProgramSlicing.pdf), [Puzzle14.java](https://gist.github.com/benjholla/5d5ba6ee8a756397193ebe1ca5d51ae2)
   
 - Wednesday, October 10, 2018
-  - Assignment: [Assignment 6](https://classroom.github.com/a/-jxEULsk), [PDF](https://github.com/SE421/assignment6/blob/master/assignment6.pdf) (due Monday, October 19, 2018 at 12:00 PM noon)
+  - Assignment: [Assignment 6](https://classroom.github.com/a/-jxEULsk), [PDF](https://github.com/SE421/assignment6/blob/master/assignment6.pdf) (due Friday, October 19, 2018 at 12:00 PM noon)
   - Lecture: [ProjectedControlGraphs.pdf](/resources/lectures/ProjectedControlGraphs.pdf), [Puzzle15.java](https://gist.github.com/benjholla/726727be137de1187c7484df35383428)
   
 - Friday, October 12, 2018
