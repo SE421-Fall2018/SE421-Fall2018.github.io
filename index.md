@@ -135,10 +135,11 @@ layout: default
   
 - Friday, October 12, 2018
   - Lecture: PCGs in Practice by Payas Awadhutkar, [puzzle16.c](https://gist.github.com/benjholla/ff9bbcddbf39cb8289dff0b921c72b40)
-  - Class Activity: Work on Assignment 6
   
 ## Week 09, 10/15 - 10/19: Dynamic Analysis
-
+  - Lecture: [DynamicAnalysis.pdf](/resources/lectures/DynamicAnalysis.pdf), [Puzzle17.java](https://gist.github.com/benjholla/fe0bb0be062a49b6f1add5b4a0d2866c)
+  - Class Activity: Work on Assignment 6
+  
 - Monday, October 15, 2018
   - Lecture: Dynamic Analysis
 
