@@ -137,11 +137,10 @@ layout: default
   - Lecture: *Building Tools to Verify Linux* by Payas Awadhutkar, [puzzle16.c](https://gist.github.com/benjholla/ff9bbcddbf39cb8289dff0b921c72b40)
   
 ## Week 09, 10/15 - 10/19: Dynamic Analysis
+
+- Monday, October 15, 2018
   - Lecture: [DynamicAnalysis.pdf](/resources/lectures/DynamicAnalysis.pdf), [Puzzle17.java](https://gist.github.com/benjholla/fe0bb0be062a49b6f1add5b4a0d2866c)
   - Class Activity: Work on Assignment 6
-  
-- Monday, October 15, 2018
-  - Lecture: Dynamic Analysis
 
 - Wednesday, October 17, 2018
    - Guest Lecture: *Machine Learning in Security* by [Benjamin Blakely](https://www.linkedin.com/in/benjaminablakely/) (Cyber Security Researcher - Argonne National Laboratory)
