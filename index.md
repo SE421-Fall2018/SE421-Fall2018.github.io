@@ -147,7 +147,7 @@ layout: default
 
 - Friday, October 19, 2018
   - Due: Assignment 6 at 12:00 PM noon
-  - Review for Midterm Exam 2
+  - Review: [MidtermExam2Review.pdf](/resources/lectures/MidtermExam2Review.pdf), [Puzzle18.java](https://gist.github.com/benjholla/b3f234b30ad2eb7b75ad3a8662435c8a)
 
 ## Week 10, 10/22 - 10/26: Web Security
 
