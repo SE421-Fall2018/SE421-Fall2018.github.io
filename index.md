@@ -153,9 +153,10 @@ layout: default
 
 - Monday, October 22, 2018
    - Midterm Exam 2
-   - Release project
-   - Assignment: Vulnerability Assessment Report
-   - Assignment: Penetration Test Report + Presentation Slides
+   
+- Wednesday, October 24, 2018
+   - Assignment: Vulnerability Assessment Report (Project Part 1)
+   - Assignment: Penetration Test Report + Presentation Slides (Project Part 2)
 
 - Friday, October 26, 2018: Last day to drop
 
@@ -169,7 +170,7 @@ layout: default
 ## Week 13, 11/12 - 11/16: Secure Software Development + Penetration Testing + Human-in-the-loop Analysis
 
 - Monday, November 12, 2018
-   - Guest Lecture: *Pentration Testing* by [Ben Schmitt](https://www.linkedin.com/in/beschmitt/) (Vice President of Information Security - Dwolla) and [Chen Cao](https://www.chencao93.com/) (Information Security Analyst - Dwolla)
+   - Guest Lecture: *Penetration Testing* by [Ben Schmitt](https://www.linkedin.com/in/beschmitt/) (Vice President of Information Security - Dwolla) and [Chen Cao](https://www.chencao93.com/) (Information Security Analyst - Dwolla)
 
 - Friday, November 16, 2018
    - Due: Final Project Vulnerability Assessment Report
