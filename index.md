@@ -156,7 +156,7 @@ layout: default
    
 - Wednesday, October 24, 2018
    - Q/A: Midterm 2 Results
-   - Lecture: [Web Security](/resources/lectures/MidtermExam2Review.pdf)
+   - Lecture: [WebSecurity.pdf](/resources/lectures/WebSecurity.pdf)
    - Assignment: Vulnerability Assessment Report (Project Part 1)
    - Assignment: Penetration Test Report + Presentation Slides (Project Part 2)
 
