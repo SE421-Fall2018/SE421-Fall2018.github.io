@@ -161,7 +161,7 @@ layout: default
    - Assignment: Penetration Test Report + Presentation Slides (Project Part 2)
 
 - Friday, October 26, 2018: Last day to drop
-   - Class Activity: Security Escape Room by [Nichole Dugan](https://www.linkedin.com/in/nichole-dugan/)
+   - Class Activity: *Security Escape Room* by [Nichole Dugan](https://www.linkedin.com/in/nichole-dugan/) (Chief Information Security Officer - Iowa Department of Public Health)
 
 ## Week 11, 10/29 - 11/02: Android Security + Algorithmic Complexity and Side Channel Attacks
 
