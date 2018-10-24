@@ -111,7 +111,7 @@ layout: default
    - Due: Assignment 4 at 12:00 PM noon
    - Assignment: [Assignment 5](https://classroom.github.com/a/KUVR7T96), [PDF](https://github.com/SE421/assignment5/blob/master/assignment5.pdf) (due Monday, October 8, 2018 at 12:00 PM noon)
    - Readings: [Optimization of Object-Oriented Programs Using Static Class Hierarchy Analysis](/resources/readings/dean-grove-chambers-ecoop95.pdf), [Fast Static Analysis of C++ Virtual Function Calls](/resources/readings/Bacon96Fast.pdf), [Scalable Propagation-Based Call Graph Construction Algorithms](/resources/readings/oopsla00.pdf)
-   - Review: Midterm 1
+   - Q/A: Midterm 1 Results
    - Lecture: [CallGraphConstruction.pdf](/resources/lectures/CallGraphConstruction.pdf), [Puzzle13.java](https://gist.github.com/benjholla/42633cb2c4f396b7e1e871d04254d236)
    
 - Wednesday, October 3, 2018
@@ -155,10 +155,13 @@ layout: default
    - Midterm Exam 2
    
 - Wednesday, October 24, 2018
+   - Q/A: Midterm 2 Results
+   - Lecture: [Web Security](/resources/lectures/MidtermExam2Review.pdf)
    - Assignment: Vulnerability Assessment Report (Project Part 1)
    - Assignment: Penetration Test Report + Presentation Slides (Project Part 2)
 
 - Friday, October 26, 2018: Last day to drop
+   - Class Activity: Security Escape Room by [Nichole Dugan](https://www.linkedin.com/in/nichole-dugan/)
 
 ## Week 11, 10/29 - 11/02: Android Security + Algorithmic Complexity and Side Channel Attacks
 
