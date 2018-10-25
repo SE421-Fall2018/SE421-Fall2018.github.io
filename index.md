@@ -156,7 +156,7 @@ layout: default
    
 - Wednesday, October 24, 2018
    - Q/A: Midterm 2 Results
-   - Lecture: [WebSecurity.pdf](/resources/lectures/WebSecurity.pdf)
+   - Lecture: [WebSecurity.pdf](/resources/lectures/WebSecurity.pdf), [Puzzle19.java](https://gist.github.com/benjholla/105d87f561b071e20edcdbd2b809a6be)
    - Assignment: Vulnerability Assessment Report (Project Part 1)
    - Assignment: Penetration Test Report + Presentation Slides (Project Part 2)
 
