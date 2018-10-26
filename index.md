@@ -157,8 +157,8 @@ layout: default
 - Wednesday, October 24, 2018
    - Q/A: Midterm 2 Results
    - Lecture: [WebSecurity.pdf](/resources/lectures/WebSecurity.pdf), [Puzzle19.java](https://gist.github.com/benjholla/105d87f561b071e20edcdbd2b809a6be)
-   - Assignment: Vulnerability Assessment Report (Project Part 1)
-   - Assignment: Penetration Test Report + Presentation Slides (Project Part 2)
+   - Assignment: [Vulnerability Assessment Report](/resources/project/Project_Vulnerability_Assessment.pdf) (Project Part 1)
+   - Assignment: [Penetration Test Report + Presentation Slides](/resources/project/Project_Penetration_Test.pdf) (Project Part 2)
 
 - Friday, October 26, 2018: Last day to drop
    - Class Activity: *Security Escape Room* by [Nichole Dugan](https://www.linkedin.com/in/nichole-dugan/) (Chief Information Security Officer - Iowa Department of Public Health)
