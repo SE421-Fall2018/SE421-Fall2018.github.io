@@ -171,17 +171,27 @@ layout: default
 - Wednesday, October 31, 2018
    - Lecture: Continuation of [WebSecurity.pdf](/resources/lectures/WebSecurity.pdf), [Puzzle20.java](https://gist.github.com/benjholla/eca79537e8feab5c8e18abe24062a489)
 
+- Friday, November 2, 2018
+   - Lecture: Continuation of [WebSecurity.pdf](/resources/lectures/WebSecurity.pdf)
+
 ## Week 12, 11/05 - 11/09: Threat Modeling + Privacy + IoT
 
 - Monday, November 5, 2018
    - Guest Lecture: *Threat Modeling* by [Ben Schmitt](https://www.linkedin.com/in/beschmitt/) (Vice President of Information Security - Dwolla) and [Chen Cao](https://www.chencao93.com/) (Information Security Analyst - Dwolla)
+   
+- Wednesday, November 7, 2018
+   - Lecture: *Requirements Traceability* by Bryan Hall
 
 ## Week 13, 11/12 - 11/16: Secure Software Development + Penetration Testing + Human-in-the-loop Analysis
 
 - Monday, November 12, 2018
    - Guest Lecture: *Penetration Testing* by [Ben Schmitt](https://www.linkedin.com/in/beschmitt/) (Vice President of Information Security - Dwolla) and [Chen Cao](https://www.chencao93.com/) (Information Security Analyst - Dwolla)
 
+- Wednesday, November 14, 2018
+   - Lecture: *GDPR and Privacy* by Bryan Hall
+
 - Friday, November 16, 2018
+   - Lecture: *IoT* by Bryan Hall
    - Due: Final Project Vulnerability Assessment Report
 
 ## Week 14, 11/19 - 11/23: Thanksgiving (No Classes)
