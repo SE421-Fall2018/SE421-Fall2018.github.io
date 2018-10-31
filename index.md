@@ -163,7 +163,13 @@ layout: default
 - Friday, October 26, 2018: Last day to drop
    - Class Activity: *Security Escape Room* by [Nichole Dugan](https://www.linkedin.com/in/nichole-dugan/) (Chief Information Security Officer - Iowa Department of Public Health)
 
-## Week 11, 10/29 - 11/02: Android Security + Algorithmic Complexity and Side Channel Attacks
+## Week 11, 10/29 - 11/02: Web Security + Algorithmic Complexity and Side Channel Attacks
+
+- Monday, October 29, 2018
+   - Lecture: *Building Tools to Detect Algorithmic Complexity Vulnerabilities* by Payas Awadhutkar
+   
+- Wednesday, October 31, 2018
+   - Lecture: Continuation of [WebSecurity.pdf](/resources/lectures/WebSecurity.pdf), [Puzzle20.java](https://gist.github.com/benjholla/eca79537e8feab5c8e18abe24062a489)
 
 ## Week 12, 11/05 - 11/09: Threat Modeling + Privacy + IoT
 
