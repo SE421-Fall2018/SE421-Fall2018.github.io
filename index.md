@@ -11,8 +11,8 @@ layout: default
 **Syllabus:** [Revision 1](/resources/SE421_Fall_2018_Syllabus.pdf)
 
 **Teaching Assistants:** 
-   - Bryan Hall
-   - Payas Awadhutkar
+   - [Bryan Hall](https://www.linkedin.com/in/bryanhall279/)
+   - [Payas Awadhutkar](https://www.linkedin.com/in/payas-awadhutkar-5723803a/)
 
 <br />
 
@@ -134,7 +134,7 @@ layout: default
   - Lecture: [ProjectedControlGraphs.pdf](/resources/lectures/ProjectedControlGraphs.pdf), [Puzzle15.java](https://gist.github.com/benjholla/726727be137de1187c7484df35383428)
   
 - Friday, October 12, 2018
-  - Lecture: *Building Tools to Verify Linux* by Payas Awadhutkar, [puzzle16.c](https://gist.github.com/benjholla/ff9bbcddbf39cb8289dff0b921c72b40)
+  - Lecture: *Building Tools to Verify Linux* by [Payas Awadhutkar](https://www.linkedin.com/in/payas-awadhutkar-5723803a/), [puzzle16.c](https://gist.github.com/benjholla/ff9bbcddbf39cb8289dff0b921c72b40)
   
 ## Week 09, 10/15 - 10/19: Dynamic Analysis
 
@@ -166,7 +166,7 @@ layout: default
 ## Week 11, 10/29 - 11/02: Web Security + Algorithmic Complexity and Side Channel Attacks
 
 - Monday, October 29, 2018
-   - Lecture: *Building Tools to Detect Algorithmic Complexity Vulnerabilities* by Payas Awadhutkar
+   - Lecture: *Building Tools to Detect Algorithmic Complexity Vulnerabilities* by [Payas Awadhutkar](https://www.linkedin.com/in/payas-awadhutkar-5723803a/)
    
 - Wednesday, October 31, 2018
    - Lecture: Continuation of [WebSecurity.pdf](/resources/lectures/WebSecurity.pdf), [Puzzle20.java](https://gist.github.com/benjholla/eca79537e8feab5c8e18abe24062a489)
@@ -180,7 +180,7 @@ layout: default
    - Guest Lecture: *Threat Modeling* by [Ben Schmitt](https://www.linkedin.com/in/beschmitt/) (Vice President of Information Security - Dwolla) and [Chen Cao](https://www.chencao93.com/) (Information Security Analyst - Dwolla)
    
 - Wednesday, November 7, 2018
-   - Lecture: *Requirements Traceability* by Bryan Hall
+   - Lecture: *Requirements Traceability* by [Bryan Hall](https://www.linkedin.com/in/bryanhall279/)
 
 ## Week 13, 11/12 - 11/16: Secure Software Development + Penetration Testing + Human-in-the-loop Analysis
 
@@ -188,10 +188,10 @@ layout: default
    - Guest Lecture: *Penetration Testing* by [Ben Schmitt](https://www.linkedin.com/in/beschmitt/) (Vice President of Information Security - Dwolla) and [Chen Cao](https://www.chencao93.com/) (Information Security Analyst - Dwolla)
 
 - Wednesday, November 14, 2018
-   - Lecture: *GDPR and Privacy* by Bryan Hall
+   - Lecture: *GDPR and Privacy* by [Bryan Hall](https://www.linkedin.com/in/bryanhall279/)
 
 - Friday, November 16, 2018
-   - Lecture: *IoT* by Bryan Hall
+   - Lecture: *IoT* by [Bryan Hall](https://www.linkedin.com/in/bryanhall279/)
    - Due: Final Project Vulnerability Assessment Report
 
 ## Week 14, 11/19 - 11/23: Thanksgiving (No Classes)
