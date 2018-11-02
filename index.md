@@ -172,7 +172,7 @@ layout: default
    - Lecture: Continuation of [WebSecurity.pdf](/resources/lectures/WebSecurity.pdf), [Puzzle20.java](https://gist.github.com/benjholla/eca79537e8feab5c8e18abe24062a489)
 
 - Friday, November 2, 2018
-   - Lecture: Continuation of [WebSecurity.pdf](/resources/lectures/WebSecurity.pdf)
+   - Lecture: Continuation of [WebSecurity.pdf](/resources/lectures/WebSecurity.pdf), [Puzzle21.java](https://gist.github.com/benjholla/e0c5b47bab64f015095740d48366bb5f)
 
 ## Week 12, 11/05 - 11/09: Threat Modeling + Privacy + IoT
 
