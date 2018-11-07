@@ -174,7 +174,7 @@ layout: default
 - Friday, November 2, 2018
    - Lecture: Continuation of [WebSecurity.pdf](/resources/lectures/WebSecurity.pdf), [Puzzle21.java](https://gist.github.com/benjholla/e0c5b47bab64f015095740d48366bb5f)
 
-## Week 12, 11/05 - 11/09: Threat Modeling + Privacy + IoT
+## Week 12, 11/05 - 11/09: Threat Modeling + Secure Software Development
 
 - Monday, November 5, 2018
    - Guest Lecture: *Threat Modeling* by [Ben Schmitt](https://www.linkedin.com/in/beschmitt/) (Vice President of Information Security - Dwolla) and [Chen Cao](https://www.chencao93.com/) (Information Security Analyst - Dwolla)
@@ -182,7 +182,7 @@ layout: default
 - Wednesday, November 7, 2018
    - Lecture: *Requirements Traceability* by [Bryan Hall](https://www.linkedin.com/in/bryanhall279/)
 
-## Week 13, 11/12 - 11/16: Secure Software Development + Penetration Testing + Human-in-the-loop Analysis
+## Week 13, 11/12 - 11/16: Penetration Testing + Privacy + IoT
 
 - Monday, November 12, 2018
    - Guest Lecture: *Penetration Testing* by [Ben Schmitt](https://www.linkedin.com/in/beschmitt/) (Vice President of Information Security - Dwolla) and [Chen Cao](https://www.chencao93.com/) (Information Security Analyst - Dwolla)
