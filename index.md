@@ -192,7 +192,6 @@ layout: default
 
 - Friday, November 16, 2018
    - Lecture: *IoT* by [Bryan Hall](https://www.linkedin.com/in/bryanhall279/)
-   - Due: Final Project Vulnerability Assessment Report
 
 ## Week 14, 11/19 - 11/23: Thanksgiving (No Classes)
 
@@ -200,6 +199,7 @@ layout: default
 
 - Monday, November 26, 2018
    - Due: Extra Credit Assignment 1 at 12:00 PM noon
+   - Due: Final Project Vulnerability Assessment Report
 
 ## Week 16, 12/03 - 12/07 (Dead Week): Modern Trends in Program Analysis
 
