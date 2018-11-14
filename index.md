@@ -182,6 +182,9 @@ layout: default
 - Wednesday, November 7, 2018
    - Lecture: *Requirements Traceability* by [Bryan Hall](https://www.linkedin.com/in/bryanhall279/)
 
+- Friday, November 9, 2018
+   - Lecture: [Managed Code Rootkits](https://jreframeworker.com)
+   
 ## Week 13, 11/12 - 11/16: Penetration Testing + Privacy + IoT
 
 - Monday, November 12, 2018
