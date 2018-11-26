@@ -202,7 +202,7 @@ layout: default
 
 - Monday, November 26, 2018
    - Due: Extra Credit Assignment 1 at 11:59 PM (1 minute to midnight)
-   - Due: Final Project Vulnerability Assessment Report
+   - Due: Final Project Vulnerability Assessment Report at 11:59 PM (1 minute to midnight)
 
 ## Week 16, 12/03 - 12/07 (Dead Week): Modern Trends in Program Analysis
 
