@@ -201,7 +201,7 @@ layout: default
 ## Week 15, 11/26 - 11/30: Final Project Engagement (Attack Phase)
 
 - Monday, November 26, 2018
-   - Due: Extra Credit Assignment 1 at 12:00 PM noon
+   - Due: Extra Credit Assignment 1 at 11:59 PM (1 minute to midnight)
    - Due: Final Project Vulnerability Assessment Report
 
 ## Week 16, 12/03 - 12/07 (Dead Week): Modern Trends in Program Analysis
