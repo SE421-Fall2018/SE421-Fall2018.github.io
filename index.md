@@ -207,12 +207,13 @@ layout: default
 ## Week 16, 12/03 - 12/07 (Dead Week): Modern Trends in Program Analysis
 
 - Wednesday, December 5, 2018
-   - Due: Final Project Penetration Test Report
-   - First Set of Presentations
+   - Due: Final Project Penetration Test Report at 12:00pm noon
+   - Due: Optional Resubmission of Final Project Vulnerability Assessment Report at 12:00pm noon
+   - First Set of Presentations (odd teams)
 
 - Friday, December 7, 2018
-   - Second Set of Presentations
+   - Second Set of Presentations (even teams)
    
 **Week 17, 12/10 - 12/14:** Final Exams
 - **Required Final Exam Activity** during two hour period arranged by *First Contact Hour* (see [https://www.registrar.iastate.edu/students/exams/fallexams#stand](https://www.registrar.iastate.edu/students/exams/fallexams#stand))
-  - Final Exam Period: Wednesday Dec. 12 @ 2:15-4:15 p.m.
+  - Final Exam Period: Wednesday Dec. 12 @ 2:15-4:15 PM
