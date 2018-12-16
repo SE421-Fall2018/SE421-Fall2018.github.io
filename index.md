@@ -26,7 +26,7 @@ layout: default
    - Lecture: [Welcome](/resources/lectures/Welcome.pdf), [SE421.java](https://gist.github.com/benjholla/517d336339fd5f2b2068d320490acefe)
    - Review: [Syllabus](/resources/SE421_Fall_2018_Syllabus.pdf)
    - Reading: [Reflections on Trusting Trust](/resources/readings/p761-thompson.pdf)
-   - Assignment: [Assignment 1](https://classroom.github.com/a/udSnZfJ4), [PDF](https://github.com/SE421/assignment1/blob/master/assignment1.pdf) (due ~~Monday, August 27, 2018~~ Wednesday, August 29, 2018 at 12 PM noon)
+   - Assignment: [Assignment 1](https://classroom.github.com/a/udSnZfJ4), [PDF](https://github.com/SE421-Fall2018/assignment1/blob/master/assignment1.pdf) (due ~~Monday, August 27, 2018~~ Wednesday, August 29, 2018 at 12 PM noon)
 
 - Wednesday, August 22, 2018
    - Guest Lecture: *Software Graph Models* by [Suresh Kothari](https://www.linkedin.com/in/surajkothari) (Richardson Professor - Iowa State University)
@@ -46,7 +46,7 @@ layout: default
 
 - Wednesday, August 29, 2018
    - Due: Assignment 1 at 12PM noon
-   - Assignment: [Assignment 2](https://classroom.github.com/a/wAuXXash), [PDF](https://github.com/SE421/assignment2/blob/master/assignment2.pdf) (due Friday, September 7, 2018 at 12:00 PM noon)
+   - Assignment: [Assignment 2](https://classroom.github.com/a/wAuXXash), [PDF](https://github.com/SE421-Fall2018/assignment2/blob/master/assignment2.pdf) (due Friday, September 7, 2018 at 12:00 PM noon)
    - Lecture: Continuation of [Buffer Overflows](/resources/lectures/BufferOverflows.pdf), [Puzzle2.java](https://gist.github.com/benjholla/b9c6a7984da3f92f8e106f9ed5106c92)
 
 - Friday, August 31, 2018
@@ -65,7 +65,7 @@ layout: default
    - Due: Assignment 2 at 12:00 PM noon
    - Lecture: [Atlas Query Language](/resources/lectures/AtlasQueries.pdf),  [Puzzle4.java](https://gist.github.com/benjholla/73044f36a99d42653bdbebc40343c689)
    - Resource: [Atlas Installation Guide](/resources/lectures/AtlasInstallationGuide.pdf)
-   - Assignment: [Assignment 3](https://classroom.github.com/a/g-BvhZR_), [PDF](https://github.com/SE421/assignment3/blob/master/assignment3.pdf) (due Monday, September 17, 2018 at 12:00 PM noon)
+   - Assignment: [Assignment 3](https://classroom.github.com/a/g-BvhZR_), [PDF](https://github.com/SE421-Fall2018/assignment3/blob/master/assignment3.pdf) (due Monday, September 17, 2018 at 12:00 PM noon)
 
 ## Week 04, 09/10 - 09/14: Control Flow Graphs + Path Counting
 
@@ -91,7 +91,7 @@ layout: default
 
 - Friday, September 21, 2018
    - Readings: [Pointer Analysis](/resources/readings/points-to-tutorial15.pdf), [Pointer Analysis: Haven't We Solved This Problem Yet?](/resources/readings/hind-paste01.pdf)
-   - Assignment: [Assignment 4](https://classroom.github.com/a/oKTLRYCG), [PDF](https://github.com/SE421/assignment4/blob/master/assignment4.pdf) (due Monday, October 1, 2018 at 12:00 PM noon)
+   - Assignment: [Assignment 4](https://classroom.github.com/a/oKTLRYCG), [PDF](https://github.com/SE421-Fall2018/assignment4/blob/master/assignment4.pdf) (due Monday, October 1, 2018 at 12:00 PM noon)
    - Lecture: [Points-to Analysis](/resources/lectures/PointsToAnalysis.pdf), [Puzzle10.java](https://gist.github.com/benjholla/bdf05d9733d6881a4534c80cf06737d1)
 
 ## Week 06, 09/24 - 09/28: Midterm 1
@@ -109,7 +109,7 @@ layout: default
 
 - Monday, October 1, 2018
    - Due: Assignment 4 at 12:00 PM noon
-   - Assignment: [Assignment 5](https://classroom.github.com/a/KUVR7T96), [PDF](https://github.com/SE421/assignment5/blob/master/assignment5.pdf) (due Monday, October 8, 2018 at 12:00 PM noon)
+   - Assignment: [Assignment 5](https://classroom.github.com/a/KUVR7T96), [PDF](https://github.com/SE421-Fall2018/assignment5/blob/master/assignment5.pdf) (due Monday, October 8, 2018 at 12:00 PM noon)
    - Readings: [Optimization of Object-Oriented Programs Using Static Class Hierarchy Analysis](/resources/readings/dean-grove-chambers-ecoop95.pdf), [Fast Static Analysis of C++ Virtual Function Calls](/resources/readings/Bacon96Fast.pdf), [Scalable Propagation-Based Call Graph Construction Algorithms](/resources/readings/oopsla00.pdf)
    - Q/A: Midterm 1 Results
    - Lecture: [CallGraphConstruction.pdf](/resources/lectures/CallGraphConstruction.pdf), [Puzzle13.java](https://gist.github.com/benjholla/42633cb2c4f396b7e1e871d04254d236)
@@ -119,7 +119,7 @@ layout: default
    
 - Friday, October 5, 2018
    - Class Activity: Work on Assignment 5
-   - Extra Credit: [Extra Credit Assignment 1](https://classroom.github.com/a/-Gjm0ijV), [PDF](https://github.com/SE421/extra-credit-assignment1/blob/master/extra_credit_assignment1.pdf) (due on Monday, November  26, 2018 at 12:00 PM noon)
+   - Extra Credit: [Extra Credit Assignment 1](https://classroom.github.com/a/-Gjm0ijV), [PDF](https://github.com/SE421-Fall2018/extra-credit-assignment1/blob/master/extra_credit_assignment1.pdf) (due on Monday, November  26, 2018 at 12:00 PM noon)
    - [Anonymous Feedback](https://goo.gl/forms/EZSn6NStaARioGFB2)  
   
 ## Week 08, 10/08 - 10/12: Program Slicing + Taint Analysis + Projected Control Graphs
@@ -130,7 +130,7 @@ layout: default
   - Lecture: [ProgramSlicing.pdf](/resources/lectures/ProgramSlicing.pdf), [Puzzle14.java](https://gist.github.com/benjholla/5d5ba6ee8a756397193ebe1ca5d51ae2)
   
 - Wednesday, October 10, 2018
-  - Assignment: [Assignment 6](https://classroom.github.com/a/-jxEULsk), [PDF](https://github.com/SE421/assignment6/blob/master/assignment6.pdf) (due Friday, October 19, 2018 at 12:00 PM noon)
+  - Assignment: [Assignment 6](https://classroom.github.com/a/-jxEULsk), [PDF](https://github.com/SE421-Fall2018/assignment6/blob/master/assignment6.pdf) (due Friday, October 19, 2018 at 12:00 PM noon)
   - Lecture: [ProjectedControlGraphs.pdf](/resources/lectures/ProjectedControlGraphs.pdf), [Puzzle15.java](https://gist.github.com/benjholla/726727be137de1187c7484df35383428)
   
 - Friday, October 12, 2018
